@@ -20,10 +20,10 @@ long as this repo does.
 
 ```
 cubari.json              chapter list + metadata for Cubari
-cover/cover.png          cover art
-chapters/Ch37/01.png     page 1
+cover/cover.png          cover art (also reader page 1)
+chapters/Ch37/01.png     page 2
           ...
-          40.png         page 40
+          40.png         page 41
 ```
 
 `cover/` is deliberately separate from `chapters/Ch37/`. Cubari orders pages
